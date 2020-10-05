@@ -15,3 +15,47 @@ img{
   max-width: 100%;
   height: auto;
 }
+
+/* regole di debug */
+[class*="col-"]{
+  min-height: 100px;
+  background-color: lightgreen;
+  border: 1px solid black;
+}
+
+header{
+  min-height: 200px;
+  background-color: red;
+  border: 1px solid black;
+}
+
+section{
+  min-height: 400px;
+  background-color: orange;
+  border: 1px solid black;
+  padding: 0 10%;
+  margin-bottom: 20px;
+}
+
+footer{
+  min-height: 200px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
+
+/* regole header */
+.centra-head-foot{
+  padding: 0 10%;
+}
+
+/* regole main */
+
+/* regole prima sezione */
+
+/* regole seconda sezione */
+
+/* regole terza sezione */
+
+/* regole quarta sezione */
+
+/* regole footer */
