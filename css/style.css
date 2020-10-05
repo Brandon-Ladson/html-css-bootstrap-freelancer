@@ -23,39 +23,51 @@ img{
   border: 1px solid black;
 }
 
+/* regole header */
 header{
+  /* debug */
   min-height: 200px;
   background-color: red;
   border: 1px solid black;
 }
 
-section{
-  min-height: 400px;
-  background-color: orange;
-  border: 1px solid black;
-  padding: 0 10%;
-  margin-bottom: 20px;
-}
-
-footer{
-  min-height: 200px;
-  background-color: lightblue;
-  border: 1px solid black;
-}
-
-/* regole header */
 .centra-head-foot{
   padding: 0 10%;
 }
 
 /* regole main */
+section{
+  /* debug */
+  min-height: 400px;
+  background-color: orange;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
 
 /* regole prima sezione */
+#first-section{
+  padding: 0 10%;
+}
 
 /* regole seconda sezione */
+#second-section{
+  padding: 0 10%;
+}
 
 /* regole terza sezione */
+#third-section{
+  padding: 0 15%;
+}
 
 /* regole quarta sezione */
+#fourth-section{
+  padding: 0 15%;
+}
 
 /* regole footer */
+footer{
+  /* debug */
+  min-height: 200px;
+  background-color: lightblue;
+  border: 1px solid black;
+}
