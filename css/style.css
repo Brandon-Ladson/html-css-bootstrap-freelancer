@@ -31,7 +31,7 @@ header{
   border: 1px solid black;
 }
 
-.centra-head-foot{
+.ms_centra-head-foot{
   padding: 0 10%;
 }
 
@@ -45,22 +45,22 @@ section{
 }
 
 /* regole prima sezione */
-#first-section{
+#ms_first-section{
   padding: 0 10%;
 }
 
 /* regole seconda sezione */
-#second-section{
+#ms_second-section{
   padding: 0 10%;
 }
 
 /* regole terza sezione */
-#third-section{
+#ms_third-section{
   padding: 0 15%;
 }
 
 /* regole quarta sezione */
-#fourth-section{
+#ms_fourth-section{
   padding: 0 15%;
 }
 
