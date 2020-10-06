@@ -60,11 +60,17 @@ section{
 /* regole prima sezione */
 #ms_first-section{
   padding: 0 10%;
+  text-align: center;
+}
+
+#ms_first-section img{
+  width: 50%;
 }
 
 /* regole seconda sezione */
 #ms_second-section{
   padding: 0 10%;
+  text-align: center;
 }
 
 /* regole terza sezione */
