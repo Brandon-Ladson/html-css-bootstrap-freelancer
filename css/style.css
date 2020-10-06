@@ -11,6 +11,11 @@
   clear: both;
 }
 
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+
 img{
   max-width: 100%;
   height: auto;
@@ -26,13 +31,21 @@ img{
 /* regole header */
 header{
   /* debug */
-  min-height: 200px;
+  height: 50px;
   background-color: red;
-  border: 1px solid black;
 }
 
 .ms_centra-head-foot{
   padding: 0 10%;
+}
+
+header .navbar-default{
+  /* debug */
+  background-color: red;
+}
+header .navbar{
+  border: none;
+  margin-bottom: 0;
 }
 
 /* regole main */
