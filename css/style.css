@@ -67,6 +67,10 @@ header .navbar{
   color: #fff;
 }
 
+.nav > li > a {
+  color: white!important;
+}
+
 /* regole main */
 main{
   margin-top: 50px;
@@ -99,9 +103,27 @@ section .ms_star{
 
 /* regole seconda sezione */
 #ms_second-section{
-  padding: 50px 10%;
+  padding: 50px 8.5%;
   text-align: center;
 }
+
+#ms_second-section .ms_top-bottom-content{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+}
+
+#ms_second-section .ms_bottom-bottom-content{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* #ms_second-section img{
+  width: 90%;
+  margin: 0 auto;
+} */
 
 /* regole terza sezione */
 #ms_third-section{
