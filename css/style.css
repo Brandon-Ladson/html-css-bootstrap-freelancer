@@ -30,9 +30,9 @@ img{
 
 /* regole header */
 header{
-  /* debug */
   height: 50px;
-  background-color: red;
+  background-color: #2c3e50;
+  z-index: 900;
 }
 
 .ms_centra-head-foot{
@@ -40,8 +40,8 @@ header{
 }
 
 header .navbar-default{
-  /* debug */
-  background-color: red;
+  background-color: #2c3e50;
+  z-index: 900;
 }
 header .navbar{
   border: none;
