@@ -76,6 +76,23 @@ section{
 /* regole terza sezione */
 #ms_third-section{
   padding: 0 15%;
+  text-align: center;
+}
+
+#ms_third-section .ms_left-central-content , .ms_right-central-content{
+  text-align: left;
+}
+
+#ms_third-section .ms_bottom-content a{
+  display: inline-block;
+  color: #fff;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+
+#ms_third-section .ms_bottom-content .ms_button{
+  display: inline-block;
 }
 
 /* regole quarta sezione */
