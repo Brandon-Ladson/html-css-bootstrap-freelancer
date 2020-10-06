@@ -98,6 +98,11 @@ section{
 /* regole quarta sezione */
 #ms_fourth-section{
   padding: 0 15%;
+  text-align: center;
+}
+
+#ms_fourth-section .ms_bottom-content{
+  text-align: left;
 }
 
 /* regole footer */
